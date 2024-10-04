@@ -57,7 +57,7 @@ export default function PrivacyPolicy() {
                 <p>
                   <strong>Affiliate</strong> means an entity that controls, is
                   controlled by or is under common control with a party, where
-                  "control" means ownership of 50% or more of the shares, equity
+                  {'"'}control{'"'} means ownership of 50% or more of the shares, equity
                   interest or other securities entitled to vote for election of
                   directors or other managing authority.
                 </p>
@@ -71,8 +71,8 @@ export default function PrivacyPolicy() {
               </li>
               <li>
                 <p>
-                  <strong>Company</strong> (referred to as either "the Company",
-                  "We", "Us" or "Our" in this Agreement) refers to Status Saver
+                  <strong>Company</strong> (referred to as either {'"'}the Company{'"'},
+                    {'"'}We{'"'}, {'"'}Us{'"'} or {'"'}Our{'"'} in this Agreement) refers to Status Saver
                   for Story Save WA.
                 </p>
               </li>
@@ -470,7 +470,7 @@ export default function PrivacyPolicy() {
             <p>
               We will let You know via email and/or a prominent notice on Our
               Service, prior to the change becoming effective and update the
-              "Last updated" date at the top of this Privacy Policy.
+              {'"'}Last updated{'"'} date at the top of this Privacy Policy.
             </p>
             <p>
               You are advised to review this Privacy Policy periodically for any

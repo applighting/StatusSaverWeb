@@ -30,7 +30,7 @@ export default function EULA() {
               license to any Third Party App under this Standard EULA or Custom
               EULA is granted by the Application Provider of that Third Party
               App. Any App that is subject to this Standard EULA is referred to
-              herein as the "Licensed Application." The Application Provider or
+              herein as the {'"'}Licensed Application.{'"'} The Application Provider or
               Apple as applicable ({'“'}Licensor{'”'}) reserves all rights in and to the
               Licensed Application not expressly granted to you under this
               Standard EULA.
@@ -100,7 +100,7 @@ export default function EULA() {
                 <p>
                   External Services. The Licensed Application may enable access
                   to Licensor’s and/or third-party services and websites
-                  (collectively and individually, "External Services" ). You
+                  (collectively and individually, {'"'}External Services{'"'} ). You
                   agree to use the External Services at your sole risk. Licensor
                   is not responsible for examining or evaluating the content or
                   accuracy of any third- party External Services, and shall not
@@ -134,7 +134,7 @@ export default function EULA() {
                   THE LICENSED APPLICATION IS AT YOUR SOLE RISK. TO THE MAXIMUM
                   EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSED APPLICATION
                   AND ANY SERVICES PERFORMED OR PROVIDED BY THE LICENSED
-                  APPLICATION ARE PROVIDED "AS IS" AND {'“'}AS AVAILABLE,{'”'} WITH ALL
+                  APPLICATION ARE PROVIDED {'"'}AS IS{'"'} AND {'“'}AS AVAILABLE,{'”'} WITH ALL
                   FAULTS AND WITHOUT WARRANTY OF ANY KIND, AND LICENSOR HEREBY
                   DISCLAIMS ALL WARRANTIES AND CONDITIONS WITH RESPECT TO THE
                   LICENSED APPLICATION AND ANY SERVICES, EITHER EXPRESS,
@@ -205,9 +205,9 @@ export default function EULA() {
               <li>
                 <p>
                   The Licensed Application and related documentation
-                  are"Commercial Items", as that term is defined at 48 C.F.R.
-                  §2.101, consisting of "Commercial Computer Software"
-                  and"Commercial Computer Software Documentation", as such terms
+                  are{'"'}Commercial Items{'"'}, as that term is defined at 48 C.F.R.
+                  §2.101, consisting of {'"'}Commercial Computer Software{'"'}
+                  and{'"'}Commercial Computer Software Documentation{'"'}, as such terms
                   are used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202, as
                   applicable. Consistent with 48 C.F.R. §12.212 or 48 C.F.R.
                   §227.7202-1 through 227.7202-4, as applicable, the Commercial

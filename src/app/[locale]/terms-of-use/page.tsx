@@ -31,7 +31,7 @@ export default function TermsOfUse() {
             <p>
               These Terms of Service will provide you the right to use the
               software applications, web sites, tools and other features
-              (collectively, the "Services") of the Application. If you are
+              (collectively, the {'"'}Services{'"'}) of the Application. If you are
               using the Application when you are acting as a business entity,
               please note that the transactions you make are binding for your
               business.
@@ -552,7 +552,7 @@ export default function TermsOfUse() {
                 </p>
                 <p>
                   THE APPLICATION MAKES NO REPRESENTATIONS OR WARRANTIES
-                  REGARDING ITS USERS" BEHAVIORS; THE USER SHALL INDIVIDUALLY
+                  REGARDING ITS USERS{'"'} BEHAVIORS; THE USER SHALL INDIVIDUALLY
                   AND SOLELY BE RESPONSIBLE FOR HIS/HER ACTIONS AND INTERACTION
                   WITH OTHER USERS.
                 </p>
@@ -658,8 +658,8 @@ export default function TermsOfUse() {
               Uninstalling the app does not automatically stop your
               subscription. To cancel your application subscription; you need to
               first enter the Apple Store from your phone or tablet and select
-              the "Subscriptions" section from the menu. In the Subscriptions
-              section, click on the "Cancel Subscription"button of your
+              the {'"'}Subscriptions{'"'} section from the menu. In the Subscriptions
+              section, click on the {'"'}Cancel Subscription{'"'}button of your
               subscription you wish to cancel and follow the on-screen
               instructions.
             </p>
